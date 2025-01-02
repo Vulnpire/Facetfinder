@@ -2,7 +2,7 @@
 
 is a lightweight Go-based tool designed for passive scanning of IPs, domains, and SSL certificates using Shodan's API. It leverages the AllOrigins proxy to query Shodan's web facets, fetches open ports and associated metadata, and ensures compliance with rate limits.
 
-> **Note:** This script is featured in my article *Dive into Go: A Full Guide for Penetration Testers, Bounty Hunters, and Developers*. If you're interested in learning more about how this tool works, its development process, and practical applications, check out the article
+> **Note:** This script is featured in my article *Dive into Go: A Full Guide for Penetration Testers, Bounty Hunters, and Developers*. If you're interested in learning more about how this tool works, its development process, and practical applications, check out the [article](https://medium.com/@v1xtron/dive-into-go-a-full-guide-for-penetration-testers-bounty-hunters-and-developers-5cc013d3f5c6).
 
 ## Features
 
