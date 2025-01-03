@@ -13,6 +13,10 @@ is a lightweight Go-based tool designed for passive scanning of IPs, domains, an
 - Automatic removal of duplicate IPs.
 - Shodan API rate-limit compliance.
 
+## Install
+
+`go install -v github.com/Vulnpire/ssweep@latest`
+
 ## Usage
 
 Usage: cat input | ./portscanner [options] <Shodan_API_Key>
