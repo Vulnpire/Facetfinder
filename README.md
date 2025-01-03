@@ -1,4 +1,4 @@
-# Facetfinder
+# Silent Sweep
 
 is a lightweight Go-based tool designed for passive scanning of IPs, domains, and SSL certificates using Shodan's API. It leverages the AllOrigins proxy to query Shodan's web facets, fetches open ports and associated metadata, and ensures compliance with rate limits.
 
